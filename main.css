@@ -1,10 +1,17 @@
 /***** General Styling *****/
 
-.mainDiv {
+#mainDiv {
   height: 100px;
   width: 100px;
   background-color: red;
+  margin: 10em auto;
 }
+
+#btn-main {
+  display: block;
+  margin: 10em auto;
+}
+
 
 
 /*****  *****/
